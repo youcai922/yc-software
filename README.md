@@ -1,2 +1,2 @@
 # yc-software
-Config files for my GitHub profile.
+常用软件-及其破解仓库
