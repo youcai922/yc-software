@@ -1,0 +1,11 @@
+1. 以管理员身份运行 NavicatCracker.exe
+2. 选择 Navicat 安装目录
+3. 断网
+4. 选择安装目录
+5. 点击 Patch!
+6. 点击 Generate!
+7. 使用生成的序列号激活
+8. 弹出激活失败窗口 选择 手动激活
+9. 将 Navicat 给的请求码复制到注册机 Request Code 中
+10. 点击 Generate Activation Code!
+11. 使用激活码激活
